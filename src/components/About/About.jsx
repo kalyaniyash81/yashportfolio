@@ -8,13 +8,13 @@ export const About = () => {
       <h2 className={styles.title}>About</h2>
       <div className={styles.content}>
         <img
-          src="assets/about/myimg.webp"
+          src="assetsp/about/myimg.webp"
           alt="Yash sitting with a laptop"
           className={styles.aboutImage}
         />
         <ul className={styles.aboutItems}>
           <li className={styles.aboutItem}>
-            <img src="assets/about/cursorIcon.png" alt="Cursor icon" />
+            <img src="assetsp/about/cursorIcon.png" alt="Cursor icon" />
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
@@ -24,7 +24,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="assets/about/serverIcon.png" alt="Server icon" />
+            <img src="assetsp/about/serverIcon.png" alt="Server icon" />
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
@@ -34,7 +34,7 @@ export const About = () => {
             </div>
           </li>
           <li className={styles.aboutItem}>
-            <img src="assets\about\da.webp" alt="Data icon" style={{width:"70px",height:"70px"}} />
+            <img src="assetsp\about\da.webp" alt="Data icon" style={{width:"70px",height:"70px"}} />
             <div className={styles.aboutItemText}>
               <h3>Data Analyst</h3>
               <p>

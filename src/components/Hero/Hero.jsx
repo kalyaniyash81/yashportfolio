@@ -20,7 +20,7 @@ export const Hero = () => {
         </a>
       </div>
       <img
-        src="assets/about/myimg.webp"
+        src="assetsp\hero\myimg.webp"
         alt="Hero image of Yash"
         className={styles.heroImg}
       />

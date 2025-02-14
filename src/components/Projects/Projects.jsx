@@ -10,7 +10,7 @@ export const Projects = () => {
         <ProjectCard 
           project={{
             title: "Wanderlust",
-            imageSrc: "assets/projects/wanderlust (1).webp",
+            imageSrc: "assetsp/projects/wanderlust (1).webp",
             description: "An online marketplace connecting travelers with unique accommodations, from private rooms to entire homes.",
             skills: ["MongoDB", "Express", "React", "Node.js", "Bootstrap"],
             demo: "https://delta-project-8wry.onrender.com/listings",
@@ -20,11 +20,11 @@ export const Projects = () => {
         <ProjectCard 
           project={{
             title: "Investlink",
-            imageSrc: "assets/projects/investlink.webp",
+            imageSrc: "assetsp/projects/investlink.webp",
             description: "A stock trading platform using sentiment analysis and machine learning to provide accurate stock recommendations.",
             skills: ["React", "MongoDB", "Express", "Node.js", "Machine Learning"],
-            demo: "https://www.investlink-demo.com",
-            source: "https://github.com/kalyaniyash81/investlink"
+            demo: "",
+            source: "https://github.com/kalyaniyash81/investlinkstocks"
           }}
         />
       </div>
